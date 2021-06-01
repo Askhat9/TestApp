@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gantelya</string>
+    <string name="start">Start</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="on">On music</string>
+    <string name="off">Off music</string>
+</resources>
